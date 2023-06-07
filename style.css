@@ -1,0 +1,88 @@
+.no1 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    border: 10px solid pink;
+    margin: 0px;
+    text-align: center;
+    background-color :aqua;
+    color:mediumorchid;
+}
+.jod {
+    width:100%;
+    background-color: black;
+    
+}
+.noob {
+    border: 0.00000000000000001px solid black;
+    width: 25%;
+    margin :10px;
+    padding: 3px;
+    font-weight: bold;
+}
+.hgj {
+    border: 0.00000000000000001px solid black;
+    width: 30%;
+    margin :10px;
+    padding: 3px;
+    font-weight :900;
+}
+.hello {
+    border: 0.00000000000000001px solid black;
+    width: 15%;
+    margin :10px;
+    padding: 3px;
+    font-weight :900;
+} 
+.hi {
+    border: 0.00000000000000001px solid black;
+    width: 15%;
+    margin :10px;
+    padding: 3px;
+    font-weight :900;
+
+}
+#vbn {
+    color : black;
+}
+.mjh {
+    color:black;
+    font-weight: bolder;
+}
+.qwe {
+    text-align: right;
+    color: black;
+    font-weight: bolder;
+    
+
+}
+#jkl {
+    
+    background-color: aqua;
+    border: 5px solid lightgreen;
+    margin :5px;
+    width :30%
+}
+.uhn {
+    text-align: right;
+    font-weight: bolder;
+}
+.okn {
+    background-color: beige;
+    border: 5px solid pink;
+    width:30%
+}
+#bnm {
+    background-color :aquamarine;
+    border :5px solid rgb(200, 133, 133) ;
+    text-align: center;
+}
+#bnl {
+    background-color :khaki;
+    text-align: center;
+    border: 5px solid green;
+    padding :0%;
+    margin: 0%;
+    
+    
+}   
+    
+
